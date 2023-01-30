@@ -1,5 +1,17 @@
 # Cupid's Corner
 
+Sprint 1 goals:
+  - Elicit, evaluate and specify requirements of our dating app
+  - Write the initiation (proposal)
+
+Sprint 2 goals:
+  - Creating vision document
+  - Creating detailed use cases
+
+Sprint 3 goals:
+  - Creating mockups/interfaces
+  - Presentation of app
+
 Description:
 Cupid's Corner is a new dating app that puts emotional connections before physical ones by promoting matching through shared interests rather than through pictures.
 
